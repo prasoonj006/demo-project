@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { Provider } from "react-redux/es";
+// import store from "./redux/task/store";
+import { NativeBaseProvider } from "native-base";
+import CustomRoutes from "./routes/Routes";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    // <Provider >
+      <NativeBaseProvider>
+        <div
+          style={{
+            width: "412px",
+            margin: "auto",
+            backgroundColor: "black",
+            color: "white",
+          }}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <CustomRoutes />
+        </div>
+      </NativeBaseProvider>
+    // </Provider>
   );
 }
 

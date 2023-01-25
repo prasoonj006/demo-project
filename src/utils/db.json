@@ -1,0 +1,94 @@
+{
+  "courses" : [
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design",
+      "chapters": "8",
+      "hours": "2",
+      "index":"0"
+    },
+    {
+      "color": "#8EC5FC",
+      "title": "Fundamentals of Product Design",
+      "chapters": "10",
+      "hours": "3",
+      "index":"1"
+    },
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design",
+      "chapters": "8",
+      "hours": "2",
+      "index":"0"
+    },
+    {
+      "color": "#8EC5FC",
+      "title": "Fundamentals of Product Design",
+      "chapters": "10",
+      "hours": "3",
+      "index":"1"
+    }
+  ],
+
+  "articles" : [
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design2",
+      "chapters": "12",
+      "hours": "4",
+      "index":"0"
+    },
+    {
+      "color": "#8EC5FC",
+      "title": "Fundamentals of Product Design2",
+      "chapters": "3",
+      "hours": "7",
+      "index":"1"
+    },
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design2",
+      "chapters": "9",
+      "hours": "12",
+      "index":"0"
+    },
+    {
+      "color": "#8EC5FC",
+      "title": "Fundamentals of Product Design2",
+      "chapters": "10",
+      "hours": "3",
+      "index":"1"
+    }
+  ],
+
+  "tweets" : [
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design3",
+      "tag": "Product",
+      "name": "Shreyas Doshi"
+    },
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design3",
+      "tag": "Product",
+      "name": "Shreyas Doshi"
+    },
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design3",
+      "tag": "Product",
+      "name": "Shreyas Doshi"
+    },
+    {
+      "color": "orange",
+      "title": "Fundamentals of Product Design3",
+      "tag": "Product",
+      "name": "Shreyas Doshi"
+    }
+   
+  ]
+
+}
+
+  
